@@ -9,7 +9,7 @@ body {
 }
 
 .card a:not([href]):not([tabindex]).scrape-new {
-  color: #2196F3;
+  color: rgb(87, 218, 75);
 }
 
 .footer {
@@ -18,7 +18,8 @@ body {
   width: 100%;
   height: 80px;
   color: white;
-  background-color: #50523d;
+  background-color: rgb(87, 218, 75);
+;
 }
 
 .navbar {
@@ -47,7 +48,7 @@ body {
 
 .jumbotron .background-image {
   height: 100%;
-  background-image: url("../images/newspaper.jpg");
+  background-image: url("../images/New-York-Times-sm.jpeg");
   background-size: cover;
 }
 
@@ -83,7 +84,7 @@ body {
 }
 
 .card .card-header {
-  background-color: #0c63aa;
+  color: rgb(87, 218, 75);
   position: relative;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -123,7 +124,7 @@ body {
   padding-left: 10px;
   margin: 0;
   font-weight: 800;
-  background: #0c63aa;
+  color: rgb(87, 218, 75);
 }
 
 .navbar-nav > li > a.scrape-new,
@@ -141,7 +142,7 @@ body {
 }
 
 .navbar-nav > li > a.scrape-new:active {
-  background: #c0060c;
+  background: #e98706;
 }
 
 .scrape-new {
