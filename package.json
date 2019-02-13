@@ -1,7 +1,7 @@
 {
-  "name": "mongo-webscrapper",
+  "name": "newsscraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "# All the News That's Fit to Scrape",
   "main": "server.js",
   "dependencies": {
     "axios": "^0.18.0",
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OscarJuma/mongo-webscrapper"
+    "url": "git+https://github.com/rebake44/newsscraper.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rebecca Baker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OscarJuma/mongo-webscrapper/issues"
+    "url": "https://github.com/rebake44/newsscraper/issues"
   },
-  "homepage": "https://github.com/OscarJuma/mongo-webscrapper#readme"
+  "homepage": "https://github.com/rebake44/newsscraper/#readme"
 }
